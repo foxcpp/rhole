@@ -1,0 +1,3 @@
+listen = "[::]:53"
+downstreams = ["1.1.1.1", "9.9.9.10"]
+blacklists = ["domains.txt"]
